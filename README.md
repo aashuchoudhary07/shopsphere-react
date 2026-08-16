@@ -157,7 +157,7 @@ shopsphere-react/
 ├── package-lock.json
 ├── README.md
 └── vite.config.js
-
+#
 🚀 Getting Started
 
 Follow these steps to run the project locally.
