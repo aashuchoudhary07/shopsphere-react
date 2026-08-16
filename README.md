@@ -157,3 +157,169 @@ shopsphere-react/
 ├── package-lock.json
 ├── README.md
 └── vite.config.js
+
+🚀 Getting Started
+
+Follow these steps to run the project locally.
+
+1. Clone the Repository
+git clone https://github.com/aashuchoudhary07/shopsphere-react.git
+2. Open the Project
+cd shopsphere-react
+3. Install Dependencies
+npm install
+4. Start the Development Server
+npm run dev
+
+The application will run at:
+
+http://localhost:5173
+🏗️ Production Build
+
+To create an optimized production build:
+
+npm run build
+
+To preview the production build locally:
+
+npm run preview
+
+The production files are generated inside the:
+
+dist/
+
+directory.
+
+🌐 Deployment
+
+ShopSphere is deployed on Netlify.
+
+Build Configuration
+Build Command:
+npm run build
+
+
+Publish Directory:
+dist
+Live Website
+
+🌐 https://shopsphere-byaashu.netlify.app
+
+The project is connected to GitHub and deployed from the main branch.
+
+🔀 Application Routes
+
+ShopSphere uses React Router DOM for client-side routing.
+
+Route	Page
+/	Home
+/products	Product Catalog
+/products/:id	Product Details
+/wishlist	Wishlist
+/cart	Shopping Cart
+/checkout	Checkout
+/order-success	Order Success
+/privacy	Privacy Policy
+/terms	Terms & Conditions
+
+A Netlify _redirects file is included to support direct access and page refreshes on client-side routes.
+
+💰 Currency
+
+ShopSphere uses Indian Rupees (₹) for product pricing.
+
+Example:
+
+₹7,499
+₹21,999
+₹4,999
+
+Prices are formatted using the Indian numbering system.
+
+🛒 Shopping Flow
+Home
+  ↓
+Products
+  ↓
+Product Details
+  ↓
+Add to Cart
+  ↓
+Cart
+  ↓
+Checkout
+  ↓
+Place Order
+  ↓
+Order Success
+⚡ Performance & Optimization
+
+The application is optimized for production using Vite.
+
+Optimization includes:
+
+Production JavaScript and CSS minification
+Optimized Vite build
+Responsive image loading
+CDN-based product images
+Reusable React components
+Client-side routing
+Production-ready deployment configuration
+📱 Responsive Design
+
+ShopSphere is designed to work across:
+
+💻 Desktop
+💻 Laptop
+📱 Tablet
+📱 Mobile
+🔐 Backend
+
+ShopSphere is currently a frontend-focused e-commerce application.
+
+The current version does not require a backend or database. Product data is managed through the frontend data layer, while cart and wishlist functionality are handled on the client side.
+
+Future backend integration can include:
+User authentication
+Database
+Product management
+Order management
+Payment gateway
+Admin dashboard
+User accounts
+Persistent orders
+🔮 Future Improvements
+
+Planned improvements for future versions:
+
+🔐 User authentication
+🗄️ Backend API and database
+💳 Real payment gateway
+📦 Real-time inventory
+👤 User profiles
+⭐ Product reviews
+🛠️ Admin dashboard
+📋 Order history
+🔔 Order notifications
+☁️ Cloud-based product storage
+👨‍💻 Author
+Aashu Choudhary
+
+B.Tech CSE Student
+
+Interested in:
+
+Web Development
+Java
+Python
+C++
+C
+JavaScript
+React
+SQL
+OpenCV
+📄 License
+
+This project is created for educational, portfolio, and demonstration purposes.
+
+⭐ If you like ShopSphere, consider giving the repository a star!
