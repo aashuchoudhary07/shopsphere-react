@@ -102,6 +102,32 @@ ShopSphere is a modern and responsive e-commerce web application built with **Re
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Homepage
+
+![ShopSphere Homepage](public/screenshots/home.jpg)
+
+### 🛍️ Product Catalog
+
+![Product Catalog](public/screenshots/products.jpg)
+
+### 📦 Product Details
+
+![Product Details](public/screenshots/product-details.jpg)
+
+### ❤️ Wishlist
+
+![Wishlist](public/screenshots/wishlist.jpg)
+
+### 🛒 Shopping Cart
+
+![Shopping Cart](public/screenshots/cart.jpg)
+
+### 💳 Checkout
+
+![Checkout](public/screenshots/checkout.jpg)
+
 ## 📂 Project Structure
 
 ```text
